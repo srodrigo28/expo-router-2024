@@ -23,6 +23,7 @@
     "expo-status-bar": "~2.0.0",
     "expo-system-ui": "~4.0.4",
     "expo-web-browser": "~14.0.1",
+    "ibuy": "file:",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-native": "0.76.3",
